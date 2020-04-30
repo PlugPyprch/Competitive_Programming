@@ -1,2 +1,2 @@
 # Competitive_Programming
-This respository is about my Competitive Programming problem solution.
+This repository is about my Competitive_Programming problem solutions.
